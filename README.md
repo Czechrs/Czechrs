@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Czechrs or Drew I am currenlty a senior in University working towards a CSIT degree
+- 👋 Hi, I’m @Czechrs or Drew I am alumni of Trine University where I studied CSIT and web development
 - 👀 I’m interested in web developement and gaming
 - 🌱 I’m currently learning javascript and brushing up on my html/css
 - 📫 I can be reached via email at drewcschilling@gmail.com
